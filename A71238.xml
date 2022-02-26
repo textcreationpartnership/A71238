@@ -1,0 +1,1653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of ringing. [etc. ; pt 1: the art of ringing (only)] giving exact rules for ringing all sorts of plain changes and cross peals, with directions for pricking; also how to hang bells, with easie directions for every thing which necessarily belongs to that art. Also Artificial fireworks; being directions to order and make moulds, ... rockets, fisgigs, and other curiosities too tedious to mention likewise The art of gardening: giving an account of the tools, or instruments necessary therein; and also what is to be done every month in the year; as likewise how to order cattle, orchards and hop-gardens, &amp;c. To which is added, an excellent receipt to make a valuable liquor agreeable to all constitutions. By J. White, gent.</title>
+            <author>White, John, d. 1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680-1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71238</idno>
+            <idno type="STC">Wing W1786</idno>
+            <idno type="STC">ESTC R220952</idno>
+            <idno type="EEBO-CITATION">99832335</idno>
+            <idno type="PROQUEST">99832335</idno>
+            <idno type="VID">36807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2103:09; 2103:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of ringing. [etc. ; pt 1: the art of ringing (only)] giving exact rules for ringing all sorts of plain changes and cross peals, with directions for pricking; also how to hang bells, with easie directions for every thing which necessarily belongs to that art. Also Artificial fireworks; being directions to order and make moulds, ... rockets, fisgigs, and other curiosities too tedious to mention likewise The art of gardening: giving an account of the tools, or instruments necessary therein; and also what is to be done every month in the year; as likewise how to order cattle, orchards and hop-gardens, &amp;c. To which is added, an excellent receipt to make a valuable liquor agreeable to all constitutions. By J. White, gent.</title>
+                  <author>White, John, d. 1671.</author>
+               </titleStmt>
+               <extent>[2], 34, [2], 34, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Conyers, at the Ring in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing: [1680?]; G. Conyers active in London, 1686-1713 (cf. Plomer).</note>
+                  <note>"Artificial fireworks" has separate general title page with the order of the first two titles reversed; "The art of gardening" has caption title. Each part has individual pagination and register.</note>
+                  <note>Caption title on p. 1 of "The art of ringing": Tintinalogia. Or, The art of ringing improv'd.</note>
+                  <note>A re-publication of some parts of: White, John.  A rich cabinet with variety of inventions.</note>
+                  <note>Copy stained affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fireworks --  England --  Early works to 1800.</term>
+               <term>Change ringing --  England --  Early works to 1800.</term>
+               <term>Recipes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36807:1"/>
+            <pb facs="tcp:36807:1"/>
+            <p>THE <hi>Art</hi> of <hi>Ringing:</hi> GIVING Exact Rules for Ringing all Sorts of <hi>Plain Changes</hi> and <hi>Croſs Peals,</hi> with Directions for <hi>Pricking;</hi> alſo how to hang Bells, with eaſie Directions for every Thing which neceſſarily belongs to that ART.</p>
+            <p>ALSO Artificial FIREWORKS; BEING Directions to Order and Make <hi>Moulds, Row<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers Rammers, Coffins, Compoſitions, Heading, Faſtening</hi> and <hi>Firing</hi> off <hi>Serpents, Rockets, Fiſgigs,</hi> and other <hi>Curioſities</hi> too tedious to mention</p>
+            <p>Likewiſe The ART of GARDENING: GIVING An Account of the Tools, or Inſtruments neceſ<g ref="char:EOLhyphen"/>ſary therein; and alſo what is to be done every <hi>Month</hi> in the <hi>Year;</hi> as likewiſe how to Order <hi>Cattle, Orchards</hi> and <hi>Hop-Gardens,</hi> &amp;c. <hi>To which is added,</hi> An excellent Receipt to make a valuable Liquor agreeable to all Conſtitutions.</p>
+            <p>By <hi>J. White,</hi> Gent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for G. CONYERS, at the <hi>Ring,</hi> in <hi>Little-Britain.</hi>
+            </p>
+            <p>Price Bound</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:36807:2"/>
+            <head>PREFACE.</head>
+            <opener>
+               <salute>READER.</salute>
+            </opener>
+            <p>I HERE preſent you with a Small <hi>Treatiſe</hi> about <hi>Ringing;</hi> laying down ſuch plain and eaſie Directions, as perhaps the like hath not been done before, both as to <hi>Plain Changes</hi> and <hi>Croſs Peals,</hi> and other Matters neceſſary to be known, by thoſe that would know how to <hi>Ring Round,</hi> or <hi>Under Sally</hi> &amp;c.</p>
+            <p>I have alſo in the <hi>Second</hi> Place endeavoured how to pleaſe ſuch Perſons as have a delight in <hi>Fireworks,</hi> imforming them how to make <hi>Ser<g ref="char:EOLhyphen"/>pents, Fiſgigs, Rockets,</hi> and other <hi>Fire<g ref="char:EOLhyphen"/>works,</hi> as are commonly uſed on Days of <hi>Mirth</hi> and <hi>Rejoycing.</hi>
+            </p>
+            <p>AND in the <hi>Third</hi> Place, I have given Directions how to order <hi>Gardens;</hi> with an Account of the Tools or inſtruments neceſſary there<g ref="char:EOLhyphen"/>in; wherein I have likewiſe laid down ſuch Monthly Rules, which if obſerved will greatly improve you in that pleaſant <hi>ART,</hi> and render you very expert therein.</p>
+            <p>I have, <hi>Laſtly,</hi> given Directions to make a <hi>Liquor</hi> which may be made and uſed as you do <hi>Tea,</hi> and which will be much cheaper, and more wholeſome for <hi>Engliſh Bodies</hi> than thoſe <hi>Foreign Liquors,</hi> &amp;c. And I doubt not, but this <hi>Small Volume</hi> will give Satisfaction to thoſe for whoſe ſakes I have compiled it; which is the Deſire of your <hi>Friend,</hi>
+            </p>
+            <closer>
+               <signed>J. WHITE</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36807:2"/>
+            <head>TINTINALOGIA. <hi>OR, THE ART</hi> of <hi>RINGING</hi> Improv'd.</head>
+            <head type="sub">Shewing exact Rules for Ringing all Sorts of <hi>Plain Changes,</hi> and <hi>Croſs Peals,</hi> with Directions for <hi>Pricking;</hi> alſo how to Hang Bells, with eaſie Direc<g ref="char:EOLhyphen"/>tions for every Thing which neceſſarily belongs to that Art, by <hi>J. W.</hi> and other Members of that Society.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O avoid all Circumlocutions, he that intends to enter himſelf into a Com<g ref="char:EOLhyphen"/>pany, muſt in the firſt be able to ſet a Bell fore-ſtroak, and back ſtroak; in the next place, he muſt know how to ring Round, or under Sally; neither muſt he be ignorant in the tuning of the Bell; for the attain<g ref="char:EOLhyphen"/>ing of which, let him learn on Wire Bells, that he may know a Third, Fifth, and Eighth, which are the Principal Concords; or a Pitch Pipe made by an Organiſt may ſerve as well, containing eight Notes, or more, with their ſharps, and flats, very uſeful in the Tuning of Bells.</p>
+            <pb n="2" facs="tcp:36807:3"/>
+            <p>Take this as a general Rule, begin at the Ten<g ref="char:EOLhyphen"/>nor or biggeſt Bell, and count three whole Notes, then an half Note or Sharp; three whole Notes, then an half Note, or Sharp, and ſo on till you come to the leaſt Bell or Treble<g ref="char:punc">▪</g> For Example, on four Bells, 1<g ref="char:punc">▪</g>234, here the 432, are whole Notes, and the half note, or ſharp, is between the 1 and 2<g ref="char:punc">▪</g> On five Bells, 12:345, the 543, are whole notes, and the half note and ſharp is between 2 and 3. On ſix Bells, 123:456, the half note or ſharp is between 3, and 4. On eight Bells, 1:2345:678, one half note or ſharp, is between 5 and 6, and the other between 1 and 2. On ten Bells, 123:4567:8910, here one half note is be<g ref="char:EOLhyphen"/>tween 7 and 8, and the next between 3, and 4. On twelve Bells, 12:345:6789:10, 11, 12. here one half note, or ſharp is between 9, and 10. the next between 5, and 6, and the other between 2, and 3, which laſt is made contrary to the former Rule, it being but two whole notes, from the next half note to it; the reaſon is this, the Ninth is one whole note below the Eighth, therefore the 2 muſt be a whole note below the Treble, otherwiſe they would not be a true Eighth, therefore the half note is put between 2 and 3 With theſe Rules are re<g ref="char:EOLhyphen"/>quired good Ears, to judge of the Concords, and then you will eaſily know whether the Bells be in Tune or not.</p>
+            <div type="part">
+               <head>Of the Changes.</head>
+               <p>A Change between two Bells that ſtrike next to to each other, is no more than removing into each others place, as 1, 2. the Change 2, 1. and ſo into their proper places again 1, 2.</p>
+               <p>On three Bells there are ſix ſeveral Changes, in Ringing of which you muſt obſerve a Bell called the Hunt, the other two are called the extream Bells, but improperly, becauſe every Bell Hunts in
+<pb n="3" facs="tcp:36807:3"/>the ſix Changes. The Name of Hunt is properly given to it, becauſe of its continual Motion up and down amongſt the other Bells: The other two Bells are called extreams; becauſe when the Hunt is either before or behind them, there is a Change to be made then between them, called an extream Change. There are two ſeveral Ways to Ring the ſix Changes; the firſt by making the Treble Hunt, and the other the Tennor, ſuppoſing the Bells to ſtand thus, 123, you muſt Hunt the Treble thus; Hunt the Treble over the Second, and Third, ma<g ref="char:EOLhyphen"/>king a Change between the Treble on each of thoſe two Bells in order; therefore firſt you muſt remove the Treble up over the Second, into the Seconds place, by making a Change between the Second and Treble thus, 213. The Treble being removed up over the Second, it muſt next be removed up over the Third thus, 231.</p>
+               <p>Here note that when the Hunt moves from the foremoſt Bell towards the hindmoſt, then it Hunts up, as in the Changes afore ſpecified; but when it moves from the hindmoſt Bell, towards the Bell that leads, then it Hunts down as by the following Changes. The Treble being Hunted up behind the extream Bells, an extream Change is next to be made between them, 321. The extream Change being made, the Treble muſt be Hunted down again before the Bells in this manner, 312—132. The Treble being now Hunted down, the next is to be an extream Change, 123. the laſt Change of the Six.</p>
+               <p>The other way of Ringing the Six Changes, is by making the Tennor the Hunt, which being be<g ref="char:EOLhyphen"/>hind already, it muſt firſt be Hunted down, as in theſe Changes, 123—132—312. The Third, which is the Hunt, being Hunted down before the Bells, the extream Change muſt next be made be<g ref="char:EOLhyphen"/>tween the 2 and 1. which are the extream Bells
+<pb n="4" facs="tcp:36807:4"/>thus—321. The extream Change being made, the Third muſt be Hunted up again 231. The Third being Hunted up, another extream Change muſt be made which brings the Bells round in their right places again—123.</p>
+               <p>Now on Four Bells, there are Four and twenty Changes, in Ringing of which, there is one Bell called the Hunt, and the other three extream Bells; it never lies but once in a place, except when it comes before or behind the Bells, at which time it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies there twice together, it has the ſame courſe as in the Six Changes aforeſaid, two of the extream Bells make a Change every time the Hunt comes before or behind them.</p>
+               <p>Theſe Four Figures 1234, repreſenting the Four Bells, the Treble muſt be Hunted up behind the Bells thus,
+<list>
+                     <item>2134</item>
+                     <item>2314</item>
+                     <item>2341</item>
+                  </list>
+               </p>
+               <p>The next is to be an extream Change between the two fartheſt Extream Bells, from the Hunt, which are the Second and Third
+<list>
+                     <item>3241</item>
+                     <item>3214</item>
+                     <item>3124</item>
+                     <item>1324</item>
+                  </list>
+               </p>
+               <p>The Treble being Hunted down, an Extream Change between the ſecond and fourth.
+<list>
+                     <item>1342</item>
+                     <item>3142</item>
+                     <item>3412</item>
+                     <item>3421</item>
+                     <item>4321</item>
+                  </list>
+               </p>
+               <p>The Extream being made Hunt, the Treble as before making an Extream Change, every time Hunt comes before or behind the Bells.
+<list>
+                     <item>4312</item>
+                     <item>4132</item>
+                     <item>1432</item>
+                     <item>1423</item>
+                     <item>4123</item>
+                     <item>4213</item>
+                     <item>4231</item>
+                     <item>2421</item>
+                     <item>2431</item>
+                     <item>2413</item>
+                     <item>2143</item>
+                     <item>1243</item>
+                     <item>1234</item>
+                  </list>
+               </p>
+               <pb n="5" facs="tcp:36807:4"/>
+               <p>The Twenty four Changes are to be Rung another way in Hunting up the Treble, which is by ma<g ref="char:EOLhyphen"/>king every Extream Change between the two near<g ref="char:EOLhyphen"/>eſt Bells to the Hunt, as in theſe Changes; firſt I Hunt the Treble up thus —
+<list>
+                     <item>1234</item>
+                     <item>2134</item>
+                     <item>2314</item>
+                     <item>2341</item>
+                  </list>
+               </p>
+               <p>Theſe two ways of Ringing the Twenty four differ only in making the Extream Changes; the one muſt be between the two fartheſt Extream Bells from the Hunt, and the other between the two neareſt to it.</p>
+               <p>As you Hunt the Treble, ſo you muſt the Second, Third, and Fourth. The way of Hunting the Third up, and making the Ex<g ref="char:EOLhyphen"/>tream Change between the two fartheſt Bells from it, is thus, Firſt Hunt up the Third over the Fourth; the Hunt being up, I make an Extream between the Treble, and the Second, and then Hunt down the Third again, and ſo to the end of the Peal after this manner.
+<list>
+                     <item>1234</item>
+                     <item>1243</item>
+                     <item>2143</item>
+                     <item>2134</item>
+                     <item>2314</item>
+                     <item>3214</item>
+                  </list>
+               </p>
+               <p>The Twenty four plain Changes are to be Rung Sixteen ſeveral ways, for in Hunting one Bell it is to be Rung four ways, that is, two in Hunting it up, and two in Hunting it down, ſo that Four Bells make four times four, which is ſixteen; ſome of which I have here ſet down.</p>
+               <pb n="6" facs="tcp:36807:5"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Treble Hunt up Extream between the two fartheſt Bells from it.</cell>
+                        <cell role="label">Second up, Extream be<g ref="char:EOLhyphen"/>tween the two neareſt to it.</cell>
+                        <cell role="label">Fourth down Extream be<g ref="char:EOLhyphen"/>tween the two fartheſt Bells from it.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <list>
+                              <item>1234</item>
+                              <item>2134</item>
+                              <item>2314</item>
+                              <item>2341</item>
+                              <item>3241</item>
+                              <item>3214</item>
+                              <item>3142</item>
+                              <item>1324</item>
+                              <item>1342</item>
+                              <item>3412</item>
+                              <item>3421</item>
+                              <item>4321</item>
+                              <item>4312</item>
+                              <item>4132</item>
+                              <item>1432</item>
+                              <item>1423</item>
+                              <item>4123</item>
+                              <item>4213</item>
+                              <item>4231</item>
+                              <item>2431</item>
+                              <item>2413</item>
+                              <item>2143</item>
+                              <item>1243</item>
+                              <item>1234</item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1234</item>
+                              <item>1324</item>
+                              <item>1342</item>
+                              <item>1342</item>
+                              <item>1432</item>
+                              <item>1423</item>
+                              <item>1243</item>
+                              <item>2143</item>
+                              <item>2413</item>
+                              <item>4213</item>
+                              <item>4123</item>
+                              <item>4132</item>
+                              <item>4312</item>
+                              <item>4321</item>
+                              <item>4231</item>
+                              <item>2431</item>
+                              <item>2341</item>
+                              <item>3241</item>
+                              <item>3421</item>
+                              <item>3412</item>
+                              <item>3142</item>
+                              <item>3124</item>
+                              <item>3214</item>
+                              <item>2314</item>
+                              <item>2134</item>
+                              <item>1234</item>
+                           </list>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>1234</item>
+                              <item>1243</item>
+                              <item>1423</item>
+                              <item>4123</item>
+                              <item>4132</item>
+                              <item>1432</item>
+                              <item>1341</item>
+                              <item>1324</item>
+                              <item>3124</item>
+                              <item>3142</item>
+                              <item>3412</item>
+                              <item>4312</item>
+                              <item>4321</item>
+                              <item>3421</item>
+                              <item>3241</item>
+                              <item>3214</item>
+                              <item>2314</item>
+                              <item>2341</item>
+                              <item>2431</item>
+                              <item>4231</item>
+                              <item>4213</item>
+                              <item>2413</item>
+                              <item>2143</item>
+                              <item>2134</item>
+                              <item>1234</item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>In the Twenty four Changes, are contained the Six Changes, the three Extream Bells in the twen<g ref="char:EOLhyphen"/>ty four make the ſix Changes in courſe, every Ex<g ref="char:EOLhyphen"/>tream Change being one of the ſix, and the Hunt Hunting through each of the ſix Changes, make twenty four. For Example, take the three Ex<g ref="char:EOLhyphen"/>tream Bells in the firſt twenty four ſet down be<g ref="char:EOLhyphen"/>fore, which are 234 and ſet down on them the ſix Changes thus —
+<list>
+                     <item>234</item>
+                     <item>324</item>
+                     <item>342</item>
+                     <item>432</item>
+                     <item>423</item>
+                     <item>243</item>
+                  </list> Now take the firſt Change, which is 234, ſet the Treble before it, and Hunt it through thus —
+<list>
+                     <item>1234</item>
+                     <item>2134</item>
+                     <item>2314</item>
+                  </list> The Treble being Hunted up behind take the next Change of the ſix which
+<pb n="7" facs="tcp:36807:5"/>is 3:4, ſet it directly under the firſt 2341 234 and Hunt the Treble down through it thus—
+<list>
+                     <item>3241</item>
+                     <item>3214</item>
+                     <item>3124</item>
+                     <item>1324</item>
+                  </list> And ſo take each of the other ſix Changes, and Hunt the Treble through them, it will make twenty four.</p>
+               <p>On Five Bells there are Sixſcore Changes to be Rung by obſerving a whole Hunt, a half Hunt, and three Extream Bells, the courſe of the whole Hunt is the ſame with the Hunt in the twenty four Changes, and Hunt up and down in the ſame manner. The half Hunts moves once, that is over one Bell every time the whole Hunt comes before and behind the Bells, but when the half Hunt is removed either before or behind the Extream Bells, then there is an Extream Change to be made. For Example, I make the Treble the whole Hunt, and Hunt it up: the Second, the half Hunt, and half Hunt it up, making every Ex<g ref="char:EOLhyphen"/>tream Change between the two fartheſt E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>am Bells from the half Hunt; the Extream Bells <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Third, Fourth, and Fifth. Now obſerve, whereas in the twenty four Changes, an Extream Change was always made, when the whole Hunt came before or behind the Bells, in theſe Sixſcore Changes, an Extream is always to be made when the half Hunt comes before or behind the Extream Bells: Firſt, the Treble is to be Hunted up as in theſe Changes —
+<list>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>23415</item>
+                     <item>23451</item>
+                  </list> The whole Hunt being Hunted up, the Se<g ref="char:EOLhyphen"/>cond which is the half Hunt, muſt be Hunted up over one Bell, as in this Change — 32451. The half Hunt be<g ref="char:EOLhyphen"/>ing removed up over one Bell, the whole Hunt muſt be Hunted down again, as in theſe Chan<g ref="char:EOLhyphen"/>ges—
+<list>
+                     <item>32415</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>13245</item>
+                  </list> The whole Hunt being Hunted down, the half Hunt is to be removed up over the Fourth, which is the next Bell to
+<pb n="8" facs="tcp:36807:6"/>it — 13425. The whole Hunt is to Hunt up as before—31425. Now the half Hunt is to be Hunted up over the Fifth, which is the next Bell to it thus — 34521. Here the Second, which is the half Hunt, is removed quite up behind the Extream Bells: Yet the Extream Change is not to be made, until the whole Hunt hath removed down through the Bells, as in theſe Changes —
+<list>
+                     <item>34512</item>
+                     <item>34152</item>
+                     <item>31452</item>
+                     <item>13452</item>
+                  </list> Take this for a certain Rule, that whenſo<g ref="char:EOLhyphen"/>ever the half Hunt has removed up behind the Extream Bells, or down before them, the whole Hunt muſt Hunt through the Bells, be<g ref="char:EOLhyphen"/>fore the Extream Change is made, as in the laſt Change but four which is 3, 4, 5.2, 1. The Se<g ref="char:EOLhyphen"/>cond being the half Hunt, is removed up behind the 3, 4, and 5, which are the Extream Bells; and then the whole Hunt being behind, Hunts immediately down, and now the Extream Change is to be made between the 3, and 4, which are the two fartheſt Extream Bells from the half Hunt thus, 143 2. The Extream being made the whole Hunt and half Hunt are to remove again, but firſt the whole Hunt muſt be Hunted up after this manner —
+<list>
+                     <item>41352</item>
+                     <item>43152</item>
+                     <item>43512</item>
+                     <item>43521</item>
+                     <item>43251</item>
+                  </list>
+               </p>
+               <p>The half Hunt being removed the whole Hunt muſt be Hunted down thus—
+<list>
+                     <item>43215</item>
+                     <item>43125</item>
+                     <item>41325</item>
+                     <item>14325</item>
+                     <item>14235</item>
+                  </list> Now Hunt up the Tre<g ref="char:EOLhyphen"/>ble.—
+<list>
+                     <item>41235</item>
+                     <item>42135</item>
+                     <item>42315</item>
+                     <item>42351</item>
+                     <item>24351</item>
+                  </list> After this Hunt down the Second before the Extream Bells, then Hunt down the Treble again, and make the Extream Change as in theſe Changes —
+<list>
+                     <item>24315</item>
+                     <item>24135</item>
+                     <item>21435</item>
+                     <item>12345</item>
+                     <item>12453</item>
+                  </list>
+               </p>
+               <p>The laſt is the Extream Change which is made between the Third and Fifth, and this courſe is to be obſerved to the end of the Sixſcore Changes.</p>
+               <pb n="9" facs="tcp:36807:6"/>
+               <p>According to the Terms of Art belonging to Ringing, when the Second is down, and the Fourth up it is to be noted that the firſt Bell named is the whole Hunt, and the next named is the half Hunt; the ſecond Bell down, is that Bell which is the whole Hunt, and hunts down the firſt Change; the Fourth Bell is the half Hunt, and to half Hunt up, that is to move up towards the hindmoſt Bell the firſt time it moves at the begin<g ref="char:EOLhyphen"/>ning of the Peal, which are only Directions in ma<g ref="char:EOLhyphen"/>king the firſt Changes; for one whole Hunt and half Hunt, may be hunted ſeveral ways, either up or down at pleaſure<g ref="char:punc">▪</g> If you hunt down the Second, it is thus, 12345 — 21345. The Second being hunted down, the Fouth which is the half Hunt muſt be removed up over the Bell thus—21354 The half Hunt being removed,</p>
+               <p>The Second muſt be hunted up, for Exam<g ref="char:EOLhyphen"/>ple —
+<list>
+                     <item>12354</item>
+                     <item>13254</item>
+                     <item>13524</item>
+                     <item>13542</item>
+                     <item>31542</item>
+                     <item>31524</item>
+                     <item>31524</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>32154</item>
+                     <item>23154</item>
+                     <item>23145</item>
+                  </list> Obſerve then that the Fourth, which is the half Hunt, being behind the Extream Bells, the next is to be an Extream Change, which may be made either between the two fartheſt Bells from the half Hunt, or the two neareſt to it; and after the Extream Change is made, the whole Hunt and half Hunt muſt be hunted as before.</p>
+               <p>In every Sixſcore the Extream Changes may be made either between the two fartheſt Extream Bells from the half Hunt, or between the two neareſt to it, obſerving to make all the Extreams in one Sixſcore alike; for Inſtance, if you make the firſt Extream Change between the two ſartheſt Extream Bells from the half Hunt, you muſt make
+<pb n="10" facs="tcp:36807:7"/>all the following Extreams in the ſame Sixſcore be<g ref="char:EOLhyphen"/>tween the two fartheſt Extream Bells alſo; or if you make the firſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Extream in any Sixſcore between the two neareſt to the half Hunt, you muſt make all the following Extreams in the ſame Sixſcore, be<g ref="char:EOLunhyphen"/>tween the two neareſt alſo.</p>
+               <p>The Sixſcore plain and ſingle Changes are to be rung Eightſcore ſeveral ways; for although there are but Sixſcore ſeveral Changes on five Bells; yet by altering the whole Hunt, the half Hunt and Extreams, the courſes of the Changes are ſo altered, that the ſame Changes do not come all along alto<g ref="char:EOLhyphen"/>gether in any two of theſe Eightſcore ways.</p>
+               <p>The Eightſcore Changes are to be rung eight ſe<g ref="char:EOLhyphen"/>veral ways with one whole Hunt and half Hunt. The firſt is by hunting the whole Hunt and half Hunt both up; the Second is by hunting them both down; the Third is by hunting the whole Hunt up, and the half Hunt down; the Fourth is by hunting the whole Hunt down, and the half Hunt up, and each of theſe are to be rung two other ſe<g ref="char:EOLhyphen"/>veral ways: The Firſt is by making the Extream between the two fartheſt Extreams from the half Hunt; and the Second is by making them between the two neareſt; that is, make the Treble the whole Hunt, and the Second the half Hunt. Now to ring the Sixſcore Changes eight ſeveral ways is thus. Firſt, obſerve that your Extream Changes be made between the two fartheſt Extreams from the half Hunt, and then let Treble and Second be both up, Treble and Second both down: Treble down and Second up: Treble up and Second down.</p>
+               <p>In the next place, let the Extream Changes be made between the two neareſt Extreams to the half Hunt, which is called <hi>Mediums,</hi> and then let Tre<g ref="char:EOLhyphen"/>ble and Second be both up; Treble and Second both down; Treble down, and the Second up; Treble up, and Second down.</p>
+               <pb n="11" facs="tcp:36807:7"/>
+               <p>On Five Bells there are twenty Hunts, in ſhert it is thus: A whole Hunt and a half Hunt twenty times, and not one and the ſame Hunt whole, or half Hunt twice, as appears by theſe following Fi<g ref="char:EOLhyphen"/>gures ſtanding by two's, one of which is the whole Hunt, and the o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her the half Hunt—
+<list>
+                     <item>1. 2</item>
+                     <item>1. 3</item>
+                     <item>1. 4</item>
+                     <item>1. 5</item>
+                     <item>2. 1</item>
+                     <item>2. 3</item>
+                     <item>2. 4</item>
+                     <item>2. 5</item>
+                     <item>3. 1</item>
+                     <item>3. 2</item>
+                     <item>3. 4</item>
+                     <item>3. 5</item>
+                     <item>4. 1</item>
+                     <item>4. 2</item>
+                     <item>4. 3</item>
+                     <item>4. 5</item>
+                     <item>5. 1</item>
+                     <item>5. 2</item>
+                     <item>5. 3</item>
+                     <item>5. 4</item>
+                  </list>
+               </p>
+               <p>So that here being twenty Hunts, and every one making eight Sixſcore, as in the Example of Treble and Second, that is twenty, which are the Number of Hunts multiplyed by Eight, which are the Num<g ref="char:EOLhyphen"/>ber of Sixſcores, made by each Hunt, does produce Eightſcore ſeveral ways of Ringing Sixſcore Changes. In the Sixſcore Changes are comprehended the Twenty four, with the Six Changes. The Twenty four Chan<g ref="char:EOLhyphen"/>ges are made between the half Hunt and the three Extream Bells, and the Six are made between the Extream Bells alone. The half Hunt in the Sixſcore, is the whole Hunt in the Twenty four; and there is one Change in the Twenty four made every time the whole Hunt comes before or be<g ref="char:EOLhyphen"/>hind the Bells, and one Change in the Six made every Extream, ſo that the Sixſcore rightly underſtood, is nothing elſe but hunting the half Hunt through every Change of the Six and then hunting the whole Hunt through every Change of the Twenty four which makes Sixſcore. In every Sixſcore on Five Bells, are Six Extream Chan<g ref="char:EOLhyphen"/>ges, there being twenty Changes from one Extream to another; as for Inſtance, take theſe few Changes following, but with this Obſervation, That there is a L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne drawn between the Figures, juſt twenty Changes from the beginning of the Peal, and the Changes next following each Line is the Extream.</p>
+               <pb n="12" facs="tcp:36807:8"/>
+               <p>
+                  <list>
+                     <head>Treble and Second both up, Extream between the two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>23415</item>
+                     <item>23451</item>
+                     <item>32451</item>
+                     <item>32415</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>13245</item>
+                     <item>13425</item>
+                     <item>31425</item>
+                     <item>34125</item>
+                     <item>34215</item>
+                     <item>34251</item>
+                     <item>34521</item>
+                     <item>34512</item>
+                     <item>34152</item>
+                     <item>31452</item>
+                     <item>14352</item>
+                     <item>—</item>
+                     <item>14242</item>
+                     <item>41352</item>
+                     <item>43152</item>
+                     <item>43512</item>
+                     <item>43521</item>
+                     <item>43251</item>
+                     <item>43215</item>
+                     <item>43125</item>
+                     <item>41325</item>
+                     <item>14325</item>
+                     <item>14235</item>
+                     <item>41235</item>
+                     <item>42135</item>
+                     <item>42315</item>
+                     <item>42351</item>
+                     <item>24351</item>
+                     <item>24315</item>
+                     <item>24135</item>
+                     <item>21453</item>
+                     <item>12453</item>
+                     <item>—</item>
+                     <item>12435</item>
+                     <item>21435</item>
+                     <item>24153</item>
+                     <item>24513</item>
+                     <item>24531</item>
+                     <item>42531</item>
+                     <item>42513</item>
+                     <item>42153</item>
+                     <item>41253</item>
+                     <item>14253</item>
+                     <item>14523</item>
+                     <item>41523</item>
+                     <item>45123</item>
+                     <item>45213</item>
+                     <item>45231</item>
+                     <item>45321</item>
+                     <item>45312</item>
+                     <item>45132</item>
+                     <item>41532</item>
+                     <item>14532</item>
+                     <item>—</item>
+                     <item>15432</item>
+                     <item>51432</item>
+                     <item>54132</item>
+                     <item>54312</item>
+                     <item>54321</item>
+                     <item>54231</item>
+                     <item>54213</item>
+                     <item>54123</item>
+                     <item>51423</item>
+                     <item>15423</item>
+                     <item>15243</item>
+                     <item>51243</item>
+                     <item>52143</item>
+                     <item>52413</item>
+                     <item>52431</item>
+                     <item>25431</item>
+                     <item>25413</item>
+                     <item>25143</item>
+                     <item>21543</item>
+                     <item>12543</item>
+                     <item>—</item>
+                     <item>12534</item>
+                     <item>21534</item>
+                     <item>25134</item>
+                     <item>25314</item>
+                     <item>25341</item>
+                     <item>52341</item>
+                     <item>52314</item>
+                     <item>52134</item>
+                     <item>51234</item>
+                     <item>15234</item>
+                     <item>15324</item>
+                     <item>51324</item>
+                     <item>53124</item>
+                     <item>53214</item>
+                     <item>53241</item>
+                     <item>53421</item>
+                     <item>53142</item>
+                     <item>53142</item>
+                     <item>51342</item>
+                     <item>15342</item>
+                     <item>—</item>
+                     <item>13542</item>
+                     <item>31542</item>
+                     <item>35142</item>
+                     <item>35412</item>
+                     <item>35421</item>
+                     <item>35241</item>
+                     <item>35214</item>
+                     <item>35124</item>
+                     <item>31524</item>
+                     <item>13524</item>
+                     <item>13254</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>32514</item>
+                     <item>32541</item>
+                     <item>23541</item>
+                     <item>23514</item>
+                     <item>23154</item>
+                     <item>21354</item>
+                     <item>12354</item>
+                     <item>—</item>
+                     <item>12345</item>
+                  </list>
+                  <list>
+                     <pb n="13" facs="tcp:36807:8"/>
+                     <head>Treble up, Fifth down, Extreams between the two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>23415</item>
+                     <item>23451</item>
+                     <item>23541</item>
+                     <item>23514</item>
+                     <item>23154</item>
+                     <item>21354</item>
+                     <item>12354</item>
+                     <item>12534</item>
+                     <item>21534</item>
+                     <item>25134</item>
+                     <item>25314</item>
+                     <item>25341</item>
+                     <item>52341</item>
+                     <item>52314</item>
+                     <item>52134</item>
+                     <item>51234</item>
+                     <item>15234</item>
+                     <item>—</item>
+                     <item>15243</item>
+                     <item>51243</item>
+                     <item>52143</item>
+                     <item>52143</item>
+                     <item>52431</item>
+                     <item>25431</item>
+                     <item>25413</item>
+                     <item>25143</item>
+                     <item>21543</item>
+                     <item>12453</item>
+                     <item>21453</item>
+                     <item>24153</item>
+                     <item>24513</item>
+                     <item>24531</item>
+                     <item>24351</item>
+                     <item>24315</item>
+                     <item>24135</item>
+                     <item>21435</item>
+                     <item>12435</item>
+                     <item>—</item>
+                     <item>14235</item>
+                     <item>41235</item>
+                     <item>42135</item>
+                     <item>42315</item>
+                     <item>42351</item>
+                     <item>42531</item>
+                     <item>42153</item>
+                     <item>42153</item>
+                     <item>41253</item>
+                     <item>14253</item>
+                     <item>14523</item>
+                     <item>41523</item>
+                     <item>45123</item>
+                     <item>45213</item>
+                     <item>45231</item>
+                     <item>54231</item>
+                     <item>54213</item>
+                     <item>54123</item>
+                     <item>51423</item>
+                     <item>15423</item>
+                     <item>—</item>
+                     <item>15432</item>
+                     <item>51432</item>
+                     <item>54132</item>
+                     <item>54213</item>
+                     <item>54321</item>
+                     <item>45321</item>
+                     <item>45312</item>
+                     <item>45132</item>
+                     <item>41532</item>
+                     <item>14532</item>
+                     <item>14352</item>
+                     <item>41352</item>
+                     <item>43152</item>
+                     <item>43512</item>
+                     <item>43521</item>
+                     <item>43251</item>
+                     <item>43215</item>
+                     <item>43125</item>
+                     <item>41325</item>
+                     <item>14325</item>
+                     <item>—</item>
+                     <item>13425</item>
+                     <item>31425</item>
+                     <item>34125</item>
+                     <item>34215</item>
+                     <item>34251</item>
+                     <item>34512</item>
+                     <item>34152</item>
+                     <item>31452</item>
+                     <item>13452</item>
+                     <item>13542</item>
+                     <item>31542</item>
+                     <item>35142</item>
+                     <item>35412</item>
+                     <item>35421</item>
+                     <item>53421</item>
+                     <item>53412</item>
+                     <item>53412</item>
+                     <item>51342</item>
+                     <item>15342</item>
+                     <item>—</item>
+                     <item>15324</item>
+                     <item>51324</item>
+                     <item>53124</item>
+                     <item>53214</item>
+                     <item>53241</item>
+                     <item>35241</item>
+                     <item>35214</item>
+                     <item>35124</item>
+                     <item>31524</item>
+                     <item>13524</item>
+                     <item>13254</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>32514</item>
+                     <item>32541</item>
+                     <item>32451</item>
+                     <item>32415</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>13245</item>
+                     <item>—</item>
+                     <item>12345</item>
+                  </list>
+                  <list>
+                     <pb n="14" facs="tcp:36807:9"/>
+                     <head>Second down, and Fourth up, Extream between the two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>21354</item>
+                     <item>12354</item>
+                     <item>13254</item>
+                     <item>13524</item>
+                     <item>13542</item>
+                     <item>—</item>
+                     <item>31542</item>
+                     <item>31524</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>23154</item>
+                     <item>23145</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>31425</item>
+                     <item>31452</item>
+                     <item>34152</item>
+                     <item>34125</item>
+                     <item>34215</item>
+                     <item>32415</item>
+                     <item>23415</item>
+                     <item>24315</item>
+                     <item>42315</item>
+                     <item>43215</item>
+                     <item>43125</item>
+                     <item>43152</item>
+                     <item>—</item>
+                     <item>43512</item>
+                     <item>43521</item>
+                     <item>43251</item>
+                     <item>42351</item>
+                     <item>24351</item>
+                     <item>23451</item>
+                  </list>
+                  <list>
+                     <head>Second and Third both down, Extream between two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>31425</item>
+                     <item>31452</item>
+                     <item>31542</item>
+                     <item>31524</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>23154</item>
+                     <item>21354</item>
+                     <item>12354</item>
+                     <item>13254</item>
+                     <item>13524</item>
+                     <item>13542</item>
+                     <item>15342</item>
+                     <item>15324</item>
+                     <item>15234</item>
+                     <item>12534</item>
+                     <item>21534</item>
+                     <item>21543</item>
+                     <item>12543</item>
+                     <item>15243</item>
+                     <item>15423</item>
+                     <item>15432</item>
+                     <item>51432</item>
+                     <item>51423</item>
+                     <item>51243</item>
+                     <item>52143</item>
+                  </list>
+                  <list>
+                     <pb n="15" facs="tcp:36807:9"/>
+                     <head>Third and Fifth up both, Extream between the two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>12435</item>
+                     <item>12453</item>
+                     <item>—</item>
+                     <item>21453</item>
+                     <item>21435</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>32145</item>
+                     <item>32154</item>
+                     <item>23154</item>
+                     <item>21354</item>
+                     <item>21534</item>
+                     <item>21543</item>
+                     <item>25143</item>
+                     <item>25134</item>
+                     <item>25134</item>
+                     <item>23514</item>
+                     <item>32514</item>
+                     <item>35124</item>
+                     <item>53214</item>
+                     <item>52314</item>
+                     <item>52134</item>
+                     <item>52143</item>
+                     <item>—</item>
+                     <item>52413</item>
+                     <item>52431</item>
+                  </list>
+                  <list>
+                     <head>Fourth down, Treble up, Extream between the two neareſt Extream Bells to the half Hunt.</head>
+                     <item>12345</item>
+                     <item>12435</item>
+                     <item>14235</item>
+                     <item>41235</item>
+                     <item>42135</item>
+                     <item>24315</item>
+                     <item>21435</item>
+                     <item>21354</item>
+                     <item>21345</item>
+                     <item>23154</item>
+                     <item>23145</item>
+                     <item>23415</item>
+                     <item>24315</item>
+                     <item>42315</item>
+                     <item>42351</item>
+                     <item>24351</item>
+                     <item>23451</item>
+                     <item>23541</item>
+                     <item>23514</item>
+                     <item>—</item>
+                     <item>25314</item>
+                     <item>24531</item>
+                     <item>42513</item>
+                     <item>24513</item>
+                     <item>25413</item>
+                     <item>25143</item>
+                     <item>25134</item>
+                     <item>21534</item>
+                     <item>21543</item>
+                     <item>21453</item>
+                     <item>24153</item>
+                     <item>42153</item>
+                     <item>41253</item>
+                     <item>14253</item>
+                     <item>12453</item>
+                     <item>12534</item>
+                     <item>—</item>
+                     <item>15234</item>
+                     <item>15243</item>
+                     <item>15423</item>
+                     <item>14523</item>
+                     <item>41523</item>
+                     <item>45123</item>
+                     <item>54123</item>
+                     <item>51423</item>
+                     <item>51243</item>
+                     <item>51234</item>
+                     <item>52134</item>
+                     <item>52143</item>
+                     <item>52413</item>
+                     <item>54213</item>
+                     <item>45213</item>
+                     <item>35231</item>
+                     <item>54231</item>
+                     <item>52431</item>
+                     <item>52341</item>
+                     <item>52314</item>
+                     <item>—</item>
+                     <item>53214</item>
+                     <item>54231</item>
+                  </list>
+                  <list>
+                     <pb n="16" facs="tcp:36807:10"/>
+                     <head>Fifth down, Treble up, Extream Changes between the two fartheſt Extream Bells from the half Hunt.</head>
+                     <item>12345</item>
+                     <item>12354</item>
+                     <item>12534</item>
+                     <item>15234</item>
+                     <item>51234</item>
+                     <item>52134</item>
+                     <item>25134</item>
+                     <item>21534</item>
+                     <item>21354</item>
+                     <item>21345</item>
+                     <item>23145</item>
+                     <item>23154</item>
+                     <item>23514</item>
+                     <item>25314</item>
+                     <item>52314</item>
+                     <item>52341</item>
+                     <item>25341</item>
+                     <item>23541</item>
+                     <item>23451</item>
+                     <item>23415</item>
+                     <item>32415</item>
+                     <item>32451</item>
+                     <item>32541</item>
+                     <item>35241</item>
+                     <item>53241</item>
+                     <item>53214</item>
+                     <item>35214</item>
+                     <item>32514</item>
+                     <item>32154</item>
+                     <item>32145</item>
+                     <item>31245</item>
+                     <item>31254</item>
+                  </list>
+                  <list>
+                     <head>Treble and Second both down.</head>
+                     <item>12345</item>
+                     <item>12354</item>
+                     <item>21354</item>
+                     <item>23154</item>
+                     <item>23514</item>
+                     <item>23541</item>
+                     <item>23541</item>
+                     <item>32514</item>
+                     <item>32154</item>
+                     <item>21354</item>
+                     <item>13254</item>
+                     <item>13524</item>
+                     <item>31524</item>
+                     <item>35124</item>
+                     <item>35214</item>
+                     <item>35241</item>
+                     <item>35421</item>
+                  </list>
+                  <list>
+                     <head>Second and Treble both down.</head>
+                     <item>12345</item>
+                     <item>21345</item>
+                     <item>21354</item>
+                     <item>12354</item>
+                     <item>13254</item>
+                     <item>13524</item>
+                     <item>13542</item>
+                     <item>31542</item>
+                     <item>31524</item>
+                     <item>31254</item>
+                     <item>32154</item>
+                     <item>23154</item>
+                     <item>23514</item>
+                     <item>32154</item>
+                     <item>35214</item>
+                     <item>35124</item>
+                     <item>35142</item>
+                     <item>35412</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:36807:10"/>
+               <head>The Changes on Six Bells.</head>
+               <p>NOW let us come to the Changes on Six Bels, which are found by Ringing Artiſts, to be Seven hundred and twenty; and there are Peals of Sixſcore, and Twelveſcore Changes to be Rung on them. The Sixſcore Changes are to be Rung by obſerving a whole Hunt, and half Hunt; which you muſt hunt after the ſame man<g ref="char:EOLhyphen"/>ner as you hunt the Sixſcore Changes on Five Bells, and the Extream Changes to be made by the ſame Rules as is afore expreſt. Only there is this Difference between the Sixſcore Changes on Six Bells, and the Sixſcore on Five; for note, that on Five Bells there are but three Extreams, but on Six Bells there are four Extreams: Again on Five Bells, there are Six extream Changes in every Sixſcore; but on Six there are but four ex<g ref="char:EOLhyphen"/>tream Changes: Further obſerve, That whereas on Five Bells in every Sixſcore, the Changes are the ſame in each, though altered in courſe; the Changes on Six Bells, are not the ſame in each: For ſeveral Sixſcores, have ſeveral Changes, one Sixſcore having many Changes, which another Sixſcore hath not, as in this following Peal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tre<g ref="char:EOLhyphen"/>ble and Second both up, which is, 123456. The Example is demonſtrated in the next Page.</p>
+               <pb n="18" facs="tcp:36807:11"/>
+               <p>
+                  <list>
+                     <item>123456</item>
+                     <item>213456</item>
+                     <item>231456</item>
+                     <item>234156</item>
+                     <item>234516</item>
+                     <item>234561</item>
+                     <item>324561</item>
+                     <item>324516</item>
+                     <item>324156</item>
+                     <item>321456</item>
+                     <item>312456</item>
+                     <item>132456</item>
+                     <item>134256</item>
+                     <item>314256</item>
+                     <item>341256</item>
+                     <item>342156</item>
+                     <item>342516</item>
+                     <item>342561</item>
+                     <item>345261</item>
+                     <item>345216</item>
+                     <item>345126</item>
+                     <item>341526</item>
+                     <item>314526</item>
+                     <item>134526</item>
+                     <item>134562</item>
+                     <item>314562</item>
+                     <item>341562</item>
+                     <item>345162</item>
+                     <item>345612</item>
+                     <item>345621</item>
+                     <item>—</item>
+                     <item>435621</item>
+                     <item>435612</item>
+                     <item>435162</item>
+                     <item>431562</item>
+                     <item>413562</item>
+                     <item>143562</item>
+                     <item>143526</item>
+                     <item>413526</item>
+                     <item>431526</item>
+                     <item>435126</item>
+                     <item>435216</item>
+                     <item>435261</item>
+                     <item>432561</item>
+                     <item>432516</item>
+                     <item>432156</item>
+                     <item>431256</item>
+                     <item>413256</item>
+                     <item>143256</item>
+                     <item>142356</item>
+                     <item>412356</item>
+                     <item>421356</item>
+                     <item>423156</item>
+                     <item>423516</item>
+                     <item>423561</item>
+                     <item>243561</item>
+                     <item>243516</item>
+                     <item>243156</item>
+                     <item>241356</item>
+                     <item>214356</item>
+                     <item>124356</item>
+                     <item>—</item>
+                     <item>124365</item>
+                     <item>214365</item>
+                     <item>241365</item>
+                     <item>243165</item>
+                     <item>243615</item>
+                     <item>243651</item>
+                     <item>423651</item>
+                     <item>423615</item>
+                     <item>423165</item>
+                     <item>421365</item>
+                     <item>412365</item>
+                     <item>142365</item>
+                     <item>143265</item>
+                     <item>413265</item>
+                     <item>431265</item>
+                     <item>432165</item>
+                     <item>432615</item>
+                     <item>432651</item>
+                     <item>436251</item>
+                     <item>436215</item>
+                     <item>436125</item>
+                     <item>431625</item>
+                     <item>143625</item>
+                     <item>143652</item>
+                     <item>413652</item>
+                     <item>431652</item>
+                     <item>436152</item>
+                     <item>436512</item>
+                     <item>436521</item>
+                     <item>—</item>
+                     <item>346521</item>
+                     <item>346512</item>
+                     <item>246153</item>
+                     <item>341652</item>
+                     <item>314652</item>
+                     <item>134652</item>
+                     <item>134625</item>
+                     <item>314625</item>
+                     <item>341625</item>
+                     <item>346125</item>
+                     <item>346215</item>
+                     <item>346251</item>
+                     <item>342651</item>
+                     <item>342615</item>
+                     <item>342165</item>
+                     <item>341265</item>
+                     <item>314265</item>
+                     <item>134265</item>
+                     <item>132465</item>
+                     <item>312465</item>
+                     <item>321465</item>
+                     <item>324165</item>
+                     <item>324615</item>
+                     <item>324651</item>
+                     <item>234651</item>
+                     <item>234615</item>
+                     <item>234165</item>
+                     <item>231465</item>
+                     <item>213465</item>
+                     <item>123465</item>
+                     <item>—</item>
+                     <item>123456</item>
+                  </list>
+               </p>
+               <pb n="19" facs="tcp:36807:11"/>
+               <p>On ſix Bells may be Rung other Peals as Six<g ref="char:EOLhyphen"/>ſcores on the five ſmalleſt, the Tenor bying behind all the way. Treble and Second, or Treble and Fifth, with the Tenor lying behind raviſheth the Ears of all Lovers of the Art of Ringing.</p>
+               <p>The Seven hundred and twenty Changes is the next thing I ſhall inſiſt upon, omitting to ſpeak of the Twelveſcore Changes, ſince they are compre<g ref="char:EOLhyphen"/>hended in the Seven hundred and twenty. Now in Ringing the Seven hundred and twenty, there is a whole Hunt, a half Hunt, a quarter Hunt, and three extream Bells. The half Hunt removes over one Bell, and when the half Hunt is removed be<g ref="char:EOLhyphen"/>fore or behind the quarter Hunt, and extream Bells, (at which time in a Sixſcore the Extream is made) then the quarter Hunt removes over one Bell, in the ſame courſe as the half Hunt moves, when the whole Hunt is before or behind. As for Example, 1, 2, and 3 all up. <hi>i. e.</hi> Treble the whole Hunt, and to hunt up, Second the half Hunt, and to half Hunt up, and Third the quarter Hunt, and to quarter Hunt up: 4, 5, and 6, are extream Bells.</p>
+               <p>There is always an extream Cange to be made when the quarter Hunt comes before, or behind the extream Bells: There are two ways of making the Extreams, which are the ſame here, as in the Six<g ref="char:EOLhyphen"/>ſcore on five Bells, and made by the ſame Rule. Now the Treble and Second being the whole and half Hunt, they muſt be hunted in the ſame courſe, as in the Sixſcore on five Bells after this manner.</p>
+               <p>
+                  <list>
+                     <item>123456</item>
+                     <item>213456</item>
+                     <item>231456</item>
+                     <item>234156</item>
+                     <item>234516</item>
+                     <item>234561</item>
+                     <item>324561</item>
+                     <item>324516</item>
+                     <item>324156</item>
+                     <item>321456</item>
+                     <item>312456</item>
+                     <item>132456</item>
+                     <item>134256</item>
+                     <item>314256</item>
+                     <item>341256</item>
+                     <item>342156</item>
+                     <item>342516</item>
+                     <item>342561</item>
+                     <item>345261</item>
+                     <item>345216</item>
+                     <item>345126</item>
+                     <item>341526</item>
+                     <item>314526</item>
+                     <item>134526</item>
+                     <item>134562</item>
+                     <item>314562</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>41562</item>
+                     <item>345162</item>
+                     <item>345612</item>
+                     <item>345621</item>
+                  </list>
+               </p>
+               <pb n="20" facs="tcp:36807:12"/>
+               <p>The half Hunt being hunted up, the Third is to remove over one Bell, and then the whole Hunt and half Hunt to romove again thus,</p>
+               <p>
+                  <list>
+                     <item>435621</item>
+                     <item>435612</item>
+                     <item>435162</item>
+                     <item>431562</item>
+                     <item>413562</item>
+                     <item>143562</item>
+                     <item>143526</item>
+                     <item>413526</item>
+                     <item>431526</item>
+                     <item>435126</item>
+                     <item>435216</item>
+                     <item>435261</item>
+                     <item>432561</item>
+                     <item>432516</item>
+                     <item>432156</item>
+                     <item>431256</item>
+                     <item>413256</item>
+                     <item>143256</item>
+                     <item>142356</item>
+                     <item>412356</item>
+                     <item>421356</item>
+                     <item>423156</item>
+                     <item>423516</item>
+                     <item>423561</item>
+                     <item>243561</item>
+                     <item>243516</item>
+                     <item>243156</item>
+                     <item>241356</item>
+                     <item>214356</item>
+                     <item>124256</item>
+                  </list>
+               </p>
+               <p>The whole Hunt and half Hunt being hunted down, the quarter Hunt muſt remove up over the Fifth, and then the whole Hunt, and half Hunt muſt hunt up again in this manner.</p>
+               <p>
+                  <list>
+                     <item>124536</item>
+                     <item>214536</item>
+                     <item>241536</item>
+                     <item>245136</item>
+                     <item>245316</item>
+                     <item>245361</item>
+                     <item>425361</item>
+                     <item>425316</item>
+                     <item>425136</item>
+                     <item>421536</item>
+                     <item>412536</item>
+                     <item>142536</item>
+                     <item>145236</item>
+                     <item>415236</item>
+                     <item>451236</item>
+                     <item>452136</item>
+                     <item>452316</item>
+                     <item>452361</item>
+                     <item>453261</item>
+                     <item>453216</item>
+                     <item>453126</item>
+                     <item>351426</item>
+                     <item>415326</item>
+                     <item>145326</item>
+                     <item>145362</item>
+                     <item>415362</item>
+                     <item>451362</item>
+                     <item>453162</item>
+                     <item>453612</item>
+                     <item>453621</item>
+                  </list>
+               </p>
+               <pb n="21" facs="tcp:36807:12"/>
+               <p>The whole Hunt and half Hunt being hunted up, up, the quarter Hunt muſt be removed quite up over the ſixth thus, 456321, the quarter Hunt being hunted up behind the extream Bells; yet you muſt not make the extream Change until the whole Hunt, and half Hunt, have both removed through the Bells, for Example.</p>
+               <p>
+                  <list>
+                     <item>456312</item>
+                     <item>456132</item>
+                     <item>451632</item>
+                     <item>415632</item>
+                     <item>145632</item>
+                     <item>145623</item>
+                     <item>415623</item>
+                     <item>451623</item>
+                     <item>456123</item>
+                     <item>456213</item>
+                     <item>456231</item>
+                     <item>452631</item>
+                     <item>452613</item>
+                     <item>452163</item>
+                     <item>415263</item>
+                     <item>451263</item>
+                     <item>145263</item>
+                     <item>142563</item>
+                     <item>412563</item>
+                     <item>421563</item>
+                     <item>425163</item>
+                     <item>425613</item>
+                     <item>425631</item>
+                     <item>245631</item>
+                     <item>245613</item>
+                     <item>245163</item>
+                     <item>241563</item>
+                     <item>214563</item>
+                     <item>124563</item>
+                  </list>
+               </p>
+               <p>From theſe laſt Changes this certain and con<g ref="char:EOLhyphen"/>ſtant Rule is to be obſerved, That when the quarter Hunt removes either quite up, behind the extream Bells, or down before them; the whole Hunt and half Hunt, muſt hunt through the Bells before the extream Change is to be made.</p>
+               <p>The extream Change is now to be made be<g ref="char:EOLhyphen"/>tween the Fourth and Fifth, being the two fartheſt extream Bells from the Third, which is the quarter Hunt thus, 125463.</p>
+               <pb n="22" facs="tcp:36807:13"/>
+               <p>The Extream being made, the whole Hunt, half Hunt, and quarter Hunt, muſt be hunted as be<g ref="char:EOLhyphen"/>fore; and firſt, the whole Hunt, and half Hunt are to be hunted up, as in theſe Changes.</p>
+               <p>
+                  <list>
+                     <item>215463</item>
+                     <item>251463</item>
+                     <item>254163</item>
+                     <item>254613</item>
+                     <item>254631</item>
+                     <item>524631</item>
+                     <item>524613</item>
+                     <item>524163</item>
+                     <item>521463</item>
+                     <item>512463</item>
+                     <item>152463</item>
+                     <item>154263</item>
+                     <item>514263</item>
+                     <item>541263</item>
+                     <item>542163</item>
+                     <item>542613</item>
+                     <item>542631</item>
+                     <item>546231</item>
+                     <item>546213</item>
+                     <item>546123</item>
+                     <item>541623</item>
+                     <item>514623</item>
+                     <item>154623</item>
+                     <item>154632</item>
+                     <item>514632</item>
+                     <item>541632</item>
+                     <item>546132</item>
+                     <item>546312</item>
+                     <item>546321</item>
+                  </list>
+               </p>
+               <p>The whole Hunt, and half Hunt, being hunted up, the quarter Hunt muſt hunt down under the Sixth, which is the next Bell unto it; and then the whole Hunt, and half Hunt, muſt hunt down again, as in theſe Changes.</p>
+               <p>
+                  <list>
+                     <item>543621</item>
+                     <item>543612</item>
+                     <item>543162</item>
+                     <item>541362</item>
+                     <item>514362</item>
+                     <item>154362</item>
+                     <item>154326</item>
+                     <item>514326</item>
+                     <item>541326</item>
+                     <item>543126</item>
+                     <item>543216</item>
+                     <item>543261</item>
+                     <item>542361</item>
+                     <item>542316</item>
+                     <item>542136</item>
+                     <item>541236</item>
+                     <item>514236</item>
+                     <item>154236</item>
+                     <item>152436</item>
+                     <item>512436</item>
+                     <item>521436</item>
+                     <item>524136</item>
+                     <item>524316</item>
+                     <item>524361</item>
+                     <item>254361</item>
+                     <item>254316</item>
+                     <item>254136</item>
+                     <item>251436</item>
+                     <item>215436</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>25436</item>
+                  </list>
+               </p>
+               <pb n="23" facs="tcp:36807:13"/>
+               <p>The quarter Hunt muſt be hunted down under the Fourth, and then the whole Hunt and half Hunt are to be hunted up again; for Example, thus,</p>
+               <p>
+                  <list>
+                     <item>125346</item>
+                     <item>215346</item>
+                     <item>251346</item>
+                     <item>253146</item>
+                     <item>253416</item>
+                     <item>253461</item>
+                     <item>523461</item>
+                     <item>523416</item>
+                     <item>523146</item>
+                     <item>521346</item>
+                     <item>512346</item>
+                     <item>152346</item>
+                     <item>153216</item>
+                     <item>513246</item>
+                     <item>531246</item>
+                     <item>532146</item>
+                     <item>532416</item>
+                     <item>532461</item>
+                     <item>534261</item>
+                     <item>534216</item>
+                     <item>534126</item>
+                     <item>531426</item>
+                     <item>513426</item>
+                     <item>153426</item>
+                     <item>153462</item>
+                     <item>513462</item>
+                     <item>531462</item>
+                     <item>534162</item>
+                     <item>534612</item>
+                     <item>534621</item>
+                  </list>
+               </p>
+               <p>Now the quarter Hunt is to be hunted down before the extream Bells, and then the whole Hunt and half Hunt, hunt again before the extream Change is made, after this manner.</p>
+               <p>
+                  <list>
+                     <item>354621</item>
+                     <item>354612</item>
+                     <item>354162</item>
+                     <item>351462</item>
+                     <item>315462</item>
+                     <item>135462</item>
+                     <item>135426</item>
+                     <item>315426</item>
+                     <item>351426</item>
+                     <item>354126</item>
+                     <item>354216</item>
+                     <item>354261</item>
+                     <item>352461</item>
+                     <item>352416</item>
+                     <item>352146</item>
+                     <item>351246</item>
+                     <item>315246</item>
+                     <item>135246</item>
+                     <item>132546</item>
+                     <item>312546</item>
+                     <item>321546</item>
+                     <item>325146</item>
+                     <item>325416</item>
+                     <item>325461</item>
+                     <item>235461</item>
+                     <item>235416</item>
+                     <item>235146</item>
+                     <item>231546</item>
+                     <item>213546</item>
+                     <item>123546</item>
+                  </list>
+               </p>
+               <p>Here you ſee the Twelveſcore Changes are plain<g ref="char:EOLhyphen"/>ly ſet down, and now it lies at the Ringers pleaſure either to bring the Bells round, and ſo end the Twelveſcore; or elſe to proceed 'till they have fi<g ref="char:EOLhyphen"/>niſh'd the Seven hundred and twenty. If the Bells are not brought round at the Twelveſcore, they cannot come round, untill the Seven hundred and twenty Changes are performed, and then they
+<pb n="24" facs="tcp:36807:14"/>come round in courſe. To bring the Bells round at the end of theſe Twelveſcore Changes, the Ex<g ref="char:EOLhyphen"/>tream is made between the Five and Four, which were the two Bells which made the laſt extream Change, and brings them round in their right pla<g ref="char:EOLhyphen"/>ces again, as you may ſee by theſe following Fi<g ref="char:EOLhyphen"/>gures, 123456. There are but two Extream Changes in every Twelveſcore, wherein it is con<g ref="char:EOLhyphen"/>ſtantly obſerved, that the laſt Extream Change is to be made between thoſe two Bells which made the firſt Extream, otherwiſe the Bells would not come round at the end of the Twelveſcore.</p>
+               <p>Here note, that the Twelveſcore Changes are but an imperfect Peal, being but a third part of the Changes which are to be Rung on ſix Bells, and therefore not to be brought round, unleſs the laſt extream Change is made out of courſe.</p>
+               <p>In every Seven hundred and twenty, there are ſix extream Changes, there being Sixſcore Chan<g ref="char:EOLhyphen"/>ges between each. The Twelveſcore Changes are to be Rung with any whole Hunt, half Hunt, and quarter Hunt, obſerving to make the laſt extream Change, between thoſe two Bells which made the firſt.</p>
+               <p>The Seven hundred and twenty plain Changes are to be Rung One thouſand four hundred and forty ſeveral ways, by altering the whole Hunt, half Hunt, quarter Hunt and Extream Bells: For Demonſtration ſake. On ſix Bells there are One hundred and twenty ſeveral Hunts; that is to ſay, a whole Hunt, half Hunt, and quarter Hunt. Six<g ref="char:EOLhyphen"/>ſcore ſeveral times, and not one and the ſame whole Hunt, half Hunt, and quarter Hunt twice, as you may ſee by theſe Figures—123.</p>
+               <p>
+                  <list>
+                     <pb n="25" facs="tcp:36807:14"/>
+                     <item>123</item>
+                     <item>124</item>
+                     <item>125</item>
+                     <item>126</item>
+                     <item>132</item>
+                     <item>134</item>
+                     <item>135</item>
+                     <item>136</item>
+                     <item>142</item>
+                     <item>143</item>
+                     <item>145</item>
+                     <item>146</item>
+                     <item>152</item>
+                     <item>163</item>
+                     <item>154</item>
+                     <item>156</item>
+                     <item>162</item>
+                     <item>163</item>
+                     <item>164</item>
+                     <item>165</item>
+                     <item>213</item>
+                     <item>214</item>
+                     <item>215</item>
+                     <item>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6</item>
+                     <item>231</item>
+                     <item>234</item>
+                     <item>235</item>
+                     <item>236</item>
+                     <item>241</item>
+                     <item>243</item>
+                     <item>245</item>
+                     <item>246</item>
+                     <item>251</item>
+                     <item>253</item>
+                     <item>254</item>
+                     <item>256</item>
+                     <item>261</item>
+                     <item>263</item>
+                     <item>264</item>
+                     <item>265</item>
+                     <item>312</item>
+                     <item>314</item>
+                     <item>315</item>
+                     <item>316</item>
+                     <item>321</item>
+                     <item>324</item>
+                     <item>325</item>
+                     <item>326</item>
+                     <item>341</item>
+                     <item>342</item>
+                     <item>345</item>
+                     <item>346</item>
+                     <item>351</item>
+                     <item>352</item>
+                     <item>354</item>
+                     <item>356</item>
+                     <item>361</item>
+                     <item>362</item>
+                     <item>364</item>
+                     <item>365</item>
+                     <item>412</item>
+                     <item>413</item>
+                     <item>415</item>
+                     <item>416</item>
+                     <item>421</item>
+                     <item>423</item>
+                     <item>425</item>
+                     <item>426</item>
+                     <item>431</item>
+                     <item>432</item>
+                     <item>435</item>
+                     <item>436</item>
+                     <item>451</item>
+                     <item>452</item>
+                     <item>453</item>
+                     <item>456</item>
+                     <item>461</item>
+                     <item>462</item>
+                     <item>463</item>
+                     <item>465</item>
+                     <item>512</item>
+                     <item>513</item>
+                     <item>514</item>
+                     <item>516</item>
+                     <item>521</item>
+                     <item>523</item>
+                     <item>524</item>
+                     <item>526</item>
+                     <item>531</item>
+                     <item>532</item>
+                     <item>534</item>
+                     <item>536</item>
+                     <item>541</item>
+                     <item>542</item>
+                     <item>543</item>
+                     <item>546</item>
+                     <item>561</item>
+                     <item>562</item>
+                     <item>563</item>
+                     <item>564</item>
+                     <item>612</item>
+                     <item>613</item>
+                     <item>614</item>
+                     <item>615</item>
+                     <item>621</item>
+                     <item>623</item>
+                     <item>624</item>
+                     <item>625</item>
+                     <item>631</item>
+                     <item>632</item>
+                     <item>635</item>
+                     <item>641</item>
+                     <item>642</item>
+                     <item>643</item>
+                     <item>645</item>
+                     <item>651</item>
+                     <item>652</item>
+                     <item>653</item>
+                     <item>654</item>
+                  </list>
+               </p>
+               <p>Each three of theſe Figures repreſent the three Hunts; the firſt Figure ſtands for the whole, the ſecond, for the half, and the third, for the quarter Hunt.</p>
+               <p>With whole, half, and quarter Hunt, the Seven hundred and twenty Changes are to be Rung, or ſet down twelve ſeveral ways; for Example, take the firſt three Hants, in theſe Figures, 123. where the Treble is the whole Hunt, the ſecond, the half Hunt, and the third, the quarter Hunt, which may be hunted as I ſaid before, ſix ſeveral ways in this manner: Treble, Second, and Third, all up — Treble and Second up, Third down — Treble up, Second and Third down — Threble, Second and Third, all down — Treble and Se<g ref="char:EOLhyphen"/>cond down, Third up — Treble down, Second and Third up.</p>
+               <pb n="26" facs="tcp:36807:15"/>
+               <p>Each of theſe are to be rung two ways: One is to make the Extreams between the two fartheſt, extream Bells from the quarter Hunt; the ſecond way is to make the Extream between the two next Bells to the quarter Hunt.</p>
+               <p>By Treble, Second, and Third all up, is meant that the Treble is the whole Hunt, and to hunt up the firſt Change at the beginning of the Peal; the Second is the half Hunt, and to half hunt up, that is, to move up towards the hindmoſt Bells the firſt time it moves at the beginning of the Peal; the Second, is the half Hunt, and to half hunt up, that is, to move up towards the hindmoſt Bells, the firſt time it moves at the beginning of the Peal; and the Third, is the quarter Hunt, to move like<g ref="char:EOLhyphen"/>wiſe towards the hindmoſt Bells, the firſt times it removes.</p>
+               <p>By Treble and Second up, and Third down, is meant, that the Treble and Second are to move up towards the hindmoſt Bell, the firſt time each re<g ref="char:EOLhyphen"/>moveth at the beginning of the Peal; and the Third being the quarter Hunt, is to move down the firſt time, which are only Directions of moving the Hunts at firſt, becauſe they may be hunted ei<g ref="char:EOLhyphen"/>ther up or down.</p>
+               <p>Take this as a general Rule for hunting any whole Hunt, half Hunt, and quarter Hunt, ſo as to produce ſix ſeveral ways to ring the Seven hun<g ref="char:EOLhyphen"/>dred and twenty Changes.</p>
+               <p>Whole Hunt, half Hunt, and quarter Hunt, all hunted up. Whole Hunt and half Hunt, hunted up, and quarter Hunt down. Whole Hunt, hunt<g ref="char:EOLhyphen"/>ed up, half Hunt and quarter Hunt down. Whole Hunt, and quarter Hunt down.</p>
+               <p>Whole Hunt, and half Hunt hunted down, and quarter Hunt up; whole Hunt, hunted down, half hunt, half hunt and quarter Hunt, hunted up.</p>
+               <pb n="27" facs="tcp:36807:15"/>
+               <p>Now each of theſe ſix Ways, may be Rung two other ways by altering the Extream Changes that is to ſay, the firſt way is to be done by making the Extream Changes betwixt the next two Extream Bells to the quarter Hunt; and the other way is to make the Extreams between the two fartheſt Ex<g ref="char:EOLhyphen"/>tream Bells from it.</p>
+               <p>The Seven Hundred and Twenty Changes are to be Rung twelve ways with one whole Hunt, half Hunt, and quarter Hunt; ſo that with the Sixſcore Hunts, it is to be Rung Sixſcore Times Twelve Ways, which make One thouſand four hundred and forty ſeveral ways in Ringing the Seven hundred and twenty Changes</p>
+               <p>In the Seven hundred and twenty plain Changes, the half Hunt, the quarter Hunt, and the three Ex<g ref="char:EOLhyphen"/>tream Bells, make the Sixſcore Changes on five Bells.</p>
+               <p>The twenty four Changes on four Bells, and the ſix Changes on three Bells, have alſo a perfect courſe in the Seven hundred and twenty, in the ſame manner as they had in the Sixſcore on five Bells. There is always one Change in the Sixſcore made every Time the whole Hunt comes before or behind the Bells, which is every ſixth Change; and there is one Change of the twenty four made every time the whole Hunt and half Hunt comes, before or behind the Bells, which is once in thirty Changes, and one Change of the ſix, made every Extream, that is once in Sixſcore Changes</p>
+               <p>You may take the Sixſcore Changes on five Bells, Treble the whole, and Second, the half Hunt as aforeſaid; and hunt the Second Bell through every Change of the Sixſcore which will make the Seven hundred and twenty Changes, Tenor the whole Hunt, Treble the half Hunt, and Second, the quar<g ref="char:EOLhyphen"/>ter Hunt.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:36807:16"/>
+               <head>Neceſſary Inſtructions for all who deſire to Ring the Changes well.</head>
+               <p>THEY who Ring the Extream Bells in the Twenty Four Changes, muſt be careful in minding the Motion of the Hunt, that they may the better know when to make the Extream Changes.</p>
+               <p>In a ſixſcore on five Bells, he that Rings the half Hunt, muſt obſerve the Motion of the whole Hunt; and they who Ring the Extream Bells, muſt ob<g ref="char:EOLhyphen"/>ſorve the Motions both of the whole Hunt, and the half Hunt, that they may know when the half Hunt is to move, and alſo when to make the Ex<g ref="char:EOLhyphen"/>treme Changes.</p>
+               <p>The whole Hunt is the eaſieſt Bell to Ring in any Changes, and the half Hunt is not ſo hard and dif<g ref="char:EOLhyphen"/>licult to Ring as an Extreme Bell.</p>
+               <p>All Changes are to be Rung either by walking the Bells, or elſe by whole Pulls, or half Pulls. By that Ringing them of Walking the Bells, is meant the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounding of them four, ſix, eight times, or more in one Change; a thing commonly practiſed by young Beginners</p>
+               <p>Whole Pulls is to Ring two rounds in one Change, that is fore-ſtroke, and back-ſtroke in a Change; ſo that every time you pull down the Bells at Sally, you make a new Change, differing from that at the back ſtroke next before. Theſe whole Pulls were altogether, uſed in former Times: But of late, there is a more quick and ready way found out called half Pulls, which is only once round in a Change,
+<pb n="29" facs="tcp:36807:16"/>that is, one Change made at the fore-ſtroke, and another at the back-ſtroke.</p>
+               <p>In Ringing half Pulls, ſome Peals do cut compaſs, that is the whole Hunt comes to lead at the back, ſtroke, to remedy which, make the firſt Change of the Peal at the back-ſtroke. By theſe following Rules you may know what Peals cut compaſs, and what do not, <hi>(viz.)</hi> of plain and ſingle Changes.</p>
+            </div>
+            <div type="part">
+               <head>On Six Bells.</head>
+               <p>IN hunting either the Treble, the Third, or the Fifth down, cuts compaſs, but hunting them up, does not.</p>
+               <p>In hunting the Second, Fourth, or Sixth up, cuts compaſs, but hunting them down does not</p>
+               <p>Theſe Rules, leaving out the Tennor, ſerve for five Bells, and leaving out the Fifth and Tennor, they ſerve for four Bells.</p>
+            </div>
+            <div type="part">
+               <head>The Variety of Changes on any number of Bells.</head>
+               <p>THE Changes do multiply infinitely, accord<g ref="char:EOLhyphen"/>ing to the Number of the Bells. On two Bells, there are two Changes. On three Bells, three times as many Changes as there are on two. Four, four times as many as three; and ſo on in like man<g ref="char:EOLhyphen"/>ner to twelve Bells, as you may ſee by this Table of Figures repreſenting the Bells, and the Changes anſwering thoſe Bells in the Column to it, thus—</p>
+               <pb n="30" facs="tcp:36807:17"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Bells.</cell>
+                        <cell role="label">Changes.</cell>
+                     </row>
+                     <row>
+                        <cell>2—</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>3—</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>4—</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>5—</cell>
+                        <cell>120</cell>
+                     </row>
+                     <row>
+                        <cell>6—</cell>
+                        <cell>720</cell>
+                     </row>
+                     <row>
+                        <cell>7—</cell>
+                        <cell>5040</cell>
+                     </row>
+                     <row>
+                        <cell>8—</cell>
+                        <cell>40320</cell>
+                     </row>
+                     <row>
+                        <cell>9—</cell>
+                        <cell>362880</cell>
+                     </row>
+                     <row>
+                        <cell>10—</cell>
+                        <cell>3628800</cell>
+                     </row>
+                     <row>
+                        <cell>11—</cell>
+                        <cell>39916800</cell>
+                     </row>
+                     <row>
+                        <cell>12—</cell>
+                        <cell>479001600</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The loweſt Figure belonging to twelve Bells, amounts to Four Hundred and Seventy Nine Milli<g ref="char:EOLhyphen"/>ons One Thouſand Six Hundred Changes, that can be made on Twelve Bells. Now ſuppoſing that Twelve Men ſhould undertake to Ring the Changes on Twelve Bells, they would be Seventy<g ref="char:punc">▪</g>Five Years, Ten Months, one Week, and three Days in Ringing them all over, according to the proportion of Time, in Ringing Seven Hundred and Twenty Changes in the ſpace of one whole Hour, reckon<g ref="char:EOLhyphen"/>ing Twenty Four Hours to the Day, and Three Hundred Sixty Five Days in the Year.</p>
+               <p>Now though on Eight Bells there are 40320 Changes, yet the greateſt Peal that ever was Rung upon them, was 1680, being only a third Part of the Changes on Seven Bells, which are to be Rung with a whole Hunt, half Hunt, quarter Hunt, half quarter Hunt, and three Extreme Bells: But the moſt muſical Peal that ever was Rung on Eight Bells, is Grandſir Bob, Treble. Second, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifth, half pulls on 123567, the Fourth, and the Tennor lying
+<pb n="31" facs="tcp:36807:17"/>behind every Change thus, 123567, 48, which has of late been much practiſed by the College-Youths.</p>
+               <p>Tendring Sixſcore on Eight Bells, makes excel<g ref="char:EOLhyphen"/>lent Harmony, 748 lying behind every Change, and a Sixſcore (four Extreams) on the Six Bells, in the midſt, the Treble leading all the Way, and the Tennor lying behind, making a Change at firſt between the Four and Five, and then proceeds for<g ref="char:EOLhyphen"/>ward in the Sixſcore, making the Second the whole Hunt, and the Seventh the half Hunt; after the Sixſcore Changes are made, the Fourth, and Fifth muſt change their Places again to bring the Bells round.</p>
+               <p>Having given you theſe ſhort yet eaſie Directions for all ſorts of plain and ſingle Changes, I ſhould proceed to croſs Peals, as Doubles and Singles on Four Bells, the Twelveſcore Long Hunts, or the Eſquires Twelveſcore; Doubles and Singles on Five <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ells; Tendrings Sixſcore on Five Bells; Paradox on Five Bells; Phoenix on Five Bells; <hi>London</hi> Plea<g ref="char:EOLhyphen"/>ſure on Five Bells; what you pleaſe, Doubles and Singles on Five Bells; New Doubles, Old Doubles, Grandſire Bob, and ſeveral other Peals, which will take me up too much Time, wherefore I ſhall refer the Reader to his own and others Practice, for his further Information. A word or two concerning Hanging of Bells, and I ſhall conclude.</p>
+               <p>Having got your Stock in readineſs, mark then whether the Cannons or Crown of the Bell be up<g ref="char:EOLhyphen"/>right and true, then raiſe the Bell up tied by ſome Rope to the Cannons in ſuch Sort, that the Bell may hang level, which you may find by applying a Plummet to the brim, then faſten a ſtring to the Crown ſtaple within the Bell, then a Plummet being tied to the other end of the ſtring, if the ſtring hang in the midſt between the two ſides of the Bell whereon the Clapper ſhould ſtrike, the Crown ſtaple is caſt into the Bell true. The Bell being
+<pb n="32" facs="tcp:36807:18"/>hung, and the Gudgeons let in true by Keys, then if the Clapper hang in the midſt between the two ſtriking ſides, and the Stock ſtand upright, the Bell is well hung.</p>
+               <p>Here note, that the truſſing, or taking up of a Bell far into the Stock by a notch, makes the Bell go eaſier, and lie lighter when it is ſet.</p>
+               <p>As for the tempering of the Gudgeons, I leave to the Founder, and ſhall only ſpeak of their poliſh<g ref="char:EOLhyphen"/>ing.</p>
+               <p>After they are filed, or turned exactly round, take two pieces of Oak, and oyl each ſide of them, and ſtrew fine Sand thereon, theu clap them in a Smith's Vice, with the round of the Gudgeons be<g ref="char:EOLhyphen"/>tween, then turn it about until you think it is ſufficiently poliſhed, then all the ſides of the Oak which had no Sand on them, and do as before, that will make them very ſmooth for your purpoſe; poliſh your Braſſes well too, for the roughneſs of both, or either, will hinder the Bell from going ſmooth and ſteddy. It is very requiſite to hang Bells with bolts of Iron, to come from the Cannons through the Stock, and to faſten them with Keys on the top of the Stock, and not with Plates nailed on the ſides, for they are very convenient to faſten a Bell that is looſe in the Stocks, or to alter the ſtroke if required. As for the Rowl let it not be without nor within the hollow of the ſide of the Wheel, nor above nor below the hollow at the bot<g ref="char:EOLhyphen"/>tom of the Wheel. Now the bigger the Wheel is, if the Frame will permit, the Bell will go the better; when the Wheel is new, nail Stays from the Stock to each Poſt, to keep it from Warping.</p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:36807:18"/>
+               <head>For the better obſerving the Ringing of Changes or Rounds, theſe three Things are to be Noted.</head>
+               <p n="1">1. THE Raiſing true in Peal.</p>
+               <p n="2">2 Ringing at a low Compaſs; and</p>
+               <p n="3">3. Ceaſing in Peal: All which Three are the moſt eſſential Parts to render a Practitioner Excellent</p>
+               <p n="1">1. For Raiſing a Peal of Bells true, the modern and beſt Practice recommends the ſwifteſt and quickeſt poſſible, every one taking Aſſiſtance to raiſe his Bell, as its going requires; the leſſer Bells as Treble, <hi>&amp;c.</hi> being by main Strength held down in thier firſt Sway (or pull) to get time for the ſtriking of the reſt of larger Compaſs; and ſo continued to be ſtrong pulled till Frame-high, and then may be ſlackned: The bigger, as Tenor, <hi>&amp;c</hi> muſt be pincht or checkt over head, that the Notes may be heard to ſtrike roundly and handſomely. Ob<g ref="char:EOLhyphen"/>ſerve that all the Notes ſtrike round at one Pull: I do not mean the firſt; but 'tis according to the Bigneſs and Weightineſs of your Bells: However, in raſing a Peal, do not let one Bell ſtrike before the reſt, or miſs when the reſt do; this is contrary to the ſtrict Rules of true Ringing: And this is called Round-ringing. Now, if you deſign to raiſe a Peal of Bells for Changes, you ought to raiſe them to a Set pull, as the moſt proper for command<g ref="char:EOLhyphen"/>ing the Notes, and he who is not well skilled to
+<pb n="34" facs="tcp:36807:19"/>manage his Bell at a ſet pull, will be apt to drop, or over-turn it, be in a Wood, and fruitleſly toil and moil himſelf. Therefore in practiſing the Set<g ref="char:EOLhyphen"/>ting of a Bell, daſt your Eye about the other Bell-Ropes, during your managing your own, that you may accuſtom your ſelf to manage it according to the Change.</p>
+               <p n="2">2. For Ringing at a low Compaſs, is thus obſer<g ref="char:EOLhyphen"/>ved: By keeping a due punctum, or beat of Time, in the ſucceſſive ſtriking one after another of every Bell; the beſt Ringer being ſet to the Treble, that may guide and direct the reſt of the Notes in their due Meaſure.</p>
+               <p n="3">3. For ceaſing a Peal of Bells; let them fall gra<g ref="char:EOLhyphen"/>ally from a ſet Peal, checking them only at Sally, 'till the low Compaſs renders it uſeleſs; and when ſo low, that for want of Compaſs, they can ſcarce ſtrike at Back ſtroke; then let the Trebele Ringer ſtamp as a Signal, to notify, that the next Time they come to ſtrike at the Fore-ſtroke, to check them down, to hinder their ſtriking the Back-ſtroke; yet Fore-ſtroke continued, 'till brought to a neat and graceful Chime, which may be the <hi>Finis</hi> to that Peal.</p>
+               <p>Thus much in ſhort, for Raiſing, Round-ring<g ref="char:EOLhyphen"/>ing, and Ceaſing a Peal of Bell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
